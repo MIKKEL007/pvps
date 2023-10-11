@@ -2,4 +2,6 @@ este es la prueba uno
 y la segunda actualizacion
 esta es la tercera y pito
 esto es lo nuevo en git
-lorem
+lorem  
+
+mi vidaaaa
